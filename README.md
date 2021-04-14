@@ -12,11 +12,15 @@ This repo contains the information you need about capstones - due dates, expecta
 * Capstone needs to be approved by Brenda (or other senior instructor)
 * A successful capstone is your ticket to the backend
 
+#
+>>
+
 * [Capstone Requirements](./01-requirements.md)
 * [Capstone Proposal](./02-capstone-proposal.md)
 * [Mentor Meeting](./03-mentor-one-on-ones.md)
 * [Presentation Details](./05-presentation.md)
 
+#
 Once you have a completed proposal, you will meet with an instruction team member to confirm your realistic MVP.
 
 
