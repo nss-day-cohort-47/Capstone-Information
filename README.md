@@ -54,5 +54,21 @@ Make a fetch call, loop through and add to database to get a unique id.
 Need help? Go [here](./04-setting-up-your-repo.md) for repo setup instructions.
 
 ### Demo Day Details
-[Demo Presentation Notes](./05-presentation.md)
-[Presentation Tips by Callan Morrison](https://docs.google.com/document/d/1QNOeCBsw4tMSl-5xp1nF65Z8Ot0FqZBrJYXu_Nsa_Uc/edit#heading=h.25d10zvggrmu)
+* [Demo Presentation Notes](./05-presentation.md)
+* [Presentation Tips by Callan Morrison](https://docs.google.com/document/d/1QNOeCBsw4tMSl-5xp1nF65Z8Ot0FqZBrJYXu_Nsa_Uc/edit#heading=h.25d10zvggrmu)
+
+# Ode to Capstone Rules of Engagement
+* This is your job 9-4pm daily at NSS.
+* This is your capstone - demonstrate what you have learned.
+* We will give guidance - we will NOT code your capstone.
+* You will have a project mentor.
+* The instruction team is available for all technical questions.
+* Daily Standups with mentoring group.
+* One-on-Ones will start as we receive proposals.
+
+## Before asking for help, answer these 5 questions.
+1. What is it suppose to do?
+1. What is it doing?
+1. What have you tried?
+1. What have you googled?
+1. Do you have any errors?
