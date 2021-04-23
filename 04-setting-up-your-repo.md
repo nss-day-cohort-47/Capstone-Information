@@ -39,7 +39,7 @@ If you plan to use routing in your application, in your application root directo
 Make sure you are in the root directory of your application and run the following command:
 
 ```sh
-/bin/bash -c "$(curl -fsSL https://github.com/nss-day-cohort-47/Capstone-Information/edit/main/scripts/auth.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/nss-day-cohort-47/Capstone-Information/main/scripts/auth.sh)"
 
 ```
 
